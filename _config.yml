@@ -19,7 +19,7 @@ description: I got nothing to say
 tagline: Not just yet
 location: unknow
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
+baseurl: "/lokitimes" # the subpath of your site, e.g. /blog
 url: "http://imlokisenpai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Loki senpai
 google_analytics: UA-101394056-1
