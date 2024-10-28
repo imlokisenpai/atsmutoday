@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Loki times
+title: ATSMU Today
 email: imlokisenpai@gmail.com
-description: I got nothing to say
-tagline: Not just yet
-location: Beniwal publications
+description: fresh and latest updates on ATSMU university 
+tagline: whatever happens, happens so just lightup a cigarette and do nothing 
+location: Dushanbe
 date: true
-baseurl: "/lokitimes" # the subpath of your site, e.g. /blog
+baseurl: "/atsmutoday" # the subpath of your site, e.g. /blog
 url: "http://imlokisenpai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Loki senpai
 google_analytics: UA-101394056-1
