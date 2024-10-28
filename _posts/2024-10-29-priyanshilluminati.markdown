@@ -2,7 +2,7 @@
 layout: post
 title:  "bro literally said..."
 author:  Loki~senpai
-date:   2024-10-129
+date:   2024-10-29
 category: class
 keywords: bakchodi
 ---
