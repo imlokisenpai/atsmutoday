@@ -8,5 +8,6 @@ keywords: bakchodi
 ---
 
 bro literally said Diljit ko illuminati marna chahta hai like fr, bhai thode nashe kam kar de plz
+just a test from next time I'll upload more proper stuff
 
 
