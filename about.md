@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-MA family news paper just for fun lol
+latest updates and interviews from ATSMU university 
